@@ -6,6 +6,16 @@ body{
     margin: 0;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    cursor: pointer;
+    
+}
+
 nav{
     background-color: #1F2937;
     color: white;
@@ -24,7 +34,7 @@ nav{
 
 .nav-buttons{
     display: flex;
-    gap: 10px;
+    gap: 20px;
 }
 
 .lower-content{
