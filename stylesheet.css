@@ -30,6 +30,14 @@ nav{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    margin: 10px 0;
+}
+
+.navbar img{
+    width: 200px;
+    height: auto;
+    -webkit-filter: invert(1);
+    filter: invert(1);
 }
 
 .nav-buttons{
